@@ -10,4 +10,4 @@ Puis dans le terminal :
 mysql -u root -p
 ```
 Le terminal me demande de saisir le mot de passe :  
-![terminal](C:\Users\messa\OneDrive\Bureau\SQL\img\Capture.PNG)
+![terminal](https://github.com/MessaliHadj/SQL/blob/main/img/Capture.PNG)
