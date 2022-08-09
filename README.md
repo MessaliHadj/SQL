@@ -11,3 +11,17 @@ mysql -u root -p
 ```
 Le terminal me demande de saisir le mot de passe :  
 ![terminal](https://github.com/MessaliHadj/SQL/blob/main/img/Capture.PNG)
+
+Pour créer une BDD il faut utiliser le mot clé CREATE :  
+
+```
+CREATE DATABASE mabdd;
+```
+Pour voir mes BDD la commande est la suivante :  
+```
+SHOW DATABASES;
+```
+Pour utilser et agir sur cette BDD j'utilise la commande :  
+```
+USE mabdd;
+```
